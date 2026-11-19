@@ -1,6 +1,6 @@
 # VaultFS
 
-**An encrypted filesystem that stays safe when the attacker owns the disk.**
+****An encrypted filesystem that stays safe when the attacker owns the disk.****
 
 Your files live in a folder you unlock with a password. Everything actually
 stored is AES-256-GCM ciphertext in opaque, randomly-named objects. An attacker
